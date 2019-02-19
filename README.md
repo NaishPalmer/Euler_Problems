@@ -1,2 +1,2 @@
-# Euler_Problem1
-Python solution to projecteuler.net's Problem 1 
+# Euler Problem Solutions
+Python solutions to projecteuler.net's problems 
